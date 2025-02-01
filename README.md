@@ -4,8 +4,8 @@ a project for quantum computing rankings
 
 ### website
 
-### 链接
+### link
 
-[访问 quantum rank ][rank.quantumscihub.com]
+[quantum computing ranking ][rank.quantumscihub.com]
 
 [rank.quantumscihub.com]: https://rank.quantumscihub.com/
